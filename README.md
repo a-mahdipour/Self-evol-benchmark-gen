@@ -9,7 +9,7 @@ Static benchmarks saturate. Once models train against them, performance improvem
 
 A self-evolving benchmark addresses this by:
 -	Continuously generating novel tasks
--		Evaluating responses using a model-based or rule-based evaluator
+-	Evaluating responses using a model-based or rule-based evaluator
 -	Tracking performance using an exponential moving average (EMA)
 -	Adapting task difficulty based on performance
 
