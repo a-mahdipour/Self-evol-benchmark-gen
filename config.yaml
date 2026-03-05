@@ -1,0 +1,4 @@
+model_name: "gpt2"  # or "EleutherAI/gpt-neo-125M" for more capability
+alpha: 0.2
+novelty_threshold: 0.9
+max_iterations: 10
